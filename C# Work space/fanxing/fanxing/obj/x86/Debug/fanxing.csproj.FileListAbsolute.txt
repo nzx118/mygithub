@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\fanxing\fanxing\bin\Debug\fanxing.exe
-C:\Users\nong\Desktop\C# Work space\fanxing\fanxing\bin\Debug\fanxing.pdb
-C:\Users\nong\Desktop\C# Work space\fanxing\fanxing\obj\x86\Debug\fanxing.exe
-C:\Users\nong\Desktop\C# Work space\fanxing\fanxing\obj\x86\Debug\fanxing.pdb

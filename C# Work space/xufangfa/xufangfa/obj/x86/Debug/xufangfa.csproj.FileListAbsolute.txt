@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\xufangfa\xufangfa\bin\Debug\xufangfa.exe
-C:\Users\nong\Desktop\C# Work space\xufangfa\xufangfa\bin\Debug\xufangfa.pdb
-C:\Users\nong\Desktop\C# Work space\xufangfa\xufangfa\obj\x86\Debug\xufangfa.exe
-C:\Users\nong\Desktop\C# Work space\xufangfa\xufangfa\obj\x86\Debug\xufangfa.pdb

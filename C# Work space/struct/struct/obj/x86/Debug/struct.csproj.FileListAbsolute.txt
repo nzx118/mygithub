@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\struct\struct\bin\Debug\struct.exe
-C:\Users\nong\Desktop\C# Work space\struct\struct\bin\Debug\struct.pdb
-C:\Users\nong\Desktop\C# Work space\struct\struct\obj\x86\Debug\struct.exe
-C:\Users\nong\Desktop\C# Work space\struct\struct\obj\x86\Debug\struct.pdb

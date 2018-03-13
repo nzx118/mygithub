@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\List\List\bin\Debug\List.exe
-C:\Users\nong\Desktop\C# Work space\List\List\bin\Debug\List.pdb
-C:\Users\nong\Desktop\C# Work space\List\List\obj\x86\Debug\List.exe
-C:\Users\nong\Desktop\C# Work space\List\List\obj\x86\Debug\List.pdb

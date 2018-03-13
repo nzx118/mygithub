@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\static\static\bin\Debug\static.exe
-C:\Users\nong\Desktop\C# Work space\static\static\bin\Debug\static.pdb
-C:\Users\nong\Desktop\C# Work space\static\static\obj\x86\Debug\static.exe
-C:\Users\nong\Desktop\C# Work space\static\static\obj\x86\Debug\static.pdb

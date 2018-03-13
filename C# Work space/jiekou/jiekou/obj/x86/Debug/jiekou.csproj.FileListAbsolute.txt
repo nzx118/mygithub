@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\jiekou\jiekou\bin\Debug\jiekou.exe
-C:\Users\nong\Desktop\C# Work space\jiekou\jiekou\bin\Debug\jiekou.pdb
-C:\Users\nong\Desktop\C# Work space\jiekou\jiekou\obj\x86\Debug\jiekou.exe
-C:\Users\nong\Desktop\C# Work space\jiekou\jiekou\obj\x86\Debug\jiekou.pdb

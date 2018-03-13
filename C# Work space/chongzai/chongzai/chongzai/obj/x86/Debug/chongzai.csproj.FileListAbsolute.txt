@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\chongzai\chongzai\chongzai\bin\Debug\chongzai.exe
-C:\Users\nong\Desktop\C# Work space\chongzai\chongzai\chongzai\bin\Debug\chongzai.pdb
-C:\Users\nong\Desktop\C# Work space\chongzai\chongzai\chongzai\obj\x86\Debug\chongzai.exe
-C:\Users\nong\Desktop\C# Work space\chongzai\chongzai\chongzai\obj\x86\Debug\chongzai.pdb

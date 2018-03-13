@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\chouxiang\chouxiang\bin\Debug\chouxiang.exe
-C:\Users\nong\Desktop\C# Work space\chouxiang\chouxiang\bin\Debug\chouxiang.pdb
-C:\Users\nong\Desktop\C# Work space\chouxiang\chouxiang\obj\x86\Debug\chouxiang.exe
-C:\Users\nong\Desktop\C# Work space\chouxiang\chouxiang\obj\x86\Debug\chouxiang.pdb

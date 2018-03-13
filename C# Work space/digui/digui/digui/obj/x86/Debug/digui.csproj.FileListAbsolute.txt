@@ -1,4 +1,0 @@
-C:\Users\nong\Desktop\C# Work space\digui\digui\digui\bin\Debug\digui.exe
-C:\Users\nong\Desktop\C# Work space\digui\digui\digui\bin\Debug\digui.pdb
-C:\Users\nong\Desktop\C# Work space\digui\digui\digui\obj\x86\Debug\digui.exe
-C:\Users\nong\Desktop\C# Work space\digui\digui\digui\obj\x86\Debug\digui.pdb
