@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\gouzao\gouzao\bin\Debug\gouzao.exe
+C:\Users\nong\Desktop\C# Work space\gouzao\gouzao\bin\Debug\gouzao.pdb
+C:\Users\nong\Desktop\C# Work space\gouzao\gouzao\obj\x86\Debug\gouzao.exe
+C:\Users\nong\Desktop\C# Work space\gouzao\gouzao\obj\x86\Debug\gouzao.pdb

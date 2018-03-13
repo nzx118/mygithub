@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\shuzu\shuzu\bin\Debug\shuzu.exe
+C:\Users\nong\Desktop\C# Work space\shuzu\shuzu\bin\Debug\shuzu.pdb
+C:\Users\nong\Desktop\C# Work space\shuzu\shuzu\obj\x86\Debug\shuzu.exe
+C:\Users\nong\Desktop\C# Work space\shuzu\shuzu\obj\x86\Debug\shuzu.pdb

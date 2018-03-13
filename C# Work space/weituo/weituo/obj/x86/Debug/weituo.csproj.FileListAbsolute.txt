@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\weituo\weituo\bin\Debug\weituo.exe
+C:\Users\nong\Desktop\C# Work space\weituo\weituo\bin\Debug\weituo.pdb
+C:\Users\nong\Desktop\C# Work space\weituo\weituo\obj\x86\Debug\weituo.exe
+C:\Users\nong\Desktop\C# Work space\weituo\weituo\obj\x86\Debug\weituo.pdb

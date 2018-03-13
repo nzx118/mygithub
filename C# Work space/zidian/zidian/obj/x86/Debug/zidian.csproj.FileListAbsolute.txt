@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\zidian\zidian\bin\Debug\zidian.exe
+C:\Users\nong\Desktop\C# Work space\zidian\zidian\bin\Debug\zidian.pdb
+C:\Users\nong\Desktop\C# Work space\zidian\zidian\obj\x86\Debug\zidian.exe
+C:\Users\nong\Desktop\C# Work space\zidian\zidian\obj\x86\Debug\zidian.pdb

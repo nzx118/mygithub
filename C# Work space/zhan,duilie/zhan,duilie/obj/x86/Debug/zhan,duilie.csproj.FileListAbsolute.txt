@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\zhan,duilie\zhan,duilie\bin\Debug\zhan,duilie.exe
+C:\Users\nong\Desktop\C# Work space\zhan,duilie\zhan,duilie\bin\Debug\zhan,duilie.pdb
+C:\Users\nong\Desktop\C# Work space\zhan,duilie\zhan,duilie\obj\x86\Debug\zhan,duilie.exe
+C:\Users\nong\Desktop\C# Work space\zhan,duilie\zhan,duilie\obj\x86\Debug\zhan,duilie.pdb

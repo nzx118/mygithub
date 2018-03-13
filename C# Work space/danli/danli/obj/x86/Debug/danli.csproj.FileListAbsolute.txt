@@ -1,0 +1,4 @@
+C:\Users\nong\Desktop\C# Work space\danli\danli\bin\Debug\danli.exe
+C:\Users\nong\Desktop\C# Work space\danli\danli\bin\Debug\danli.pdb
+C:\Users\nong\Desktop\C# Work space\danli\danli\obj\x86\Debug\danli.exe
+C:\Users\nong\Desktop\C# Work space\danli\danli\obj\x86\Debug\danli.pdb
